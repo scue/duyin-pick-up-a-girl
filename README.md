@@ -1,8 +1,8 @@
 # 抖音撩妹Mac版
 
-![](https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297410838729.jpg)
+<img src="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297410838729.jpg" alt="alt text" style="width:800px;">
 
-![](https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297415494852.jpg)
+<img src="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297415494852.jpg" alt="alt text" style="width:600px;">
 
 ## Build Setup
 
