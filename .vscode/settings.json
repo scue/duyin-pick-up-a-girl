@@ -1,0 +1,19 @@
+{
+  // eslint设置
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    "html",
+    "vue"
+  ],
+  // Vetur format
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true
+}
