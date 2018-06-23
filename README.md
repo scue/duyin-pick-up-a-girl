@@ -2,10 +2,7 @@
 
 ![](https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297410838729.jpg)
 
-<video id="video" controls="" preload="none" poster="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297415494852.jpg">
-    <source id="mp4" src="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/QQ20180623-153616-HD.mp4"type="video/mp4">
-    <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+![](https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297415494852.jpg)
 
 ## Build Setup
 
