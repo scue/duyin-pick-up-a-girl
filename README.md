@@ -1,7 +1,5 @@
 # 抖音撩妹Mac版
 
-<img src="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297410838729.jpg" alt="alt text" style="width:800px;">
-
 <img src="https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297415494852.jpg" alt="alt text" style="width:600px;">
 
 ## Build Setup
@@ -59,3 +57,5 @@ my-girlfirend-v0.0.2-darwin-x64
 ├── my-project.app/
 └── bg-cover.jpg
 ```
+
+![](https://media-1256569450.cos.ap-chengdu.myqcloud.com/blog/15297410838729.jpg)
